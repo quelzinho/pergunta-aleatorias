@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Lugar mais fundo do mundo?',
+    'Fossa das Marianas – um abismo no oeste do Oceano Pacífico que se estende por mais de 2.540 quilômetros '
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Línguas',
+    'lingua mais falada do mundo',
+    'Olá em mandarim é 你好 (nǐ hǎo)'
 )
