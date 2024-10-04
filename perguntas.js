@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Carro',
+    'Carro mais rapido do mundo?',
+    'Jesko Absolut pode atingir uma velocidade máxima de 531 km/h'
 )
 
 criaCartao(
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Carro',
+    'Um carro pode te deixar surdo?',
+    'Sim, o Pagani Zonda R tem essa capacidade.'
 )
 
 criaCartao(
     'Línguas',
-    'lingua mais falada do mundo',
-    'Olá em mandarim é 你好 (nǐ hǎo)'
+    'Lingua mais falada do mundo',
+    'Mandarim'
 )
